@@ -3,21 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0404cf5e-3012-4b7c-be2f-1479ef685eb5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K2.md" beforeDir="false" afterPath="$PROJECT_DIR$/K2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K2/adsr.png" beforeDir="false" afterPath="$PROJECT_DIR$/K2/adsr.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K2/adsr_panel.png" beforeDir="false" afterPath="$PROJECT_DIR$/K2/adsr_panel.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K2/cutoff.png" beforeDir="false" afterPath="$PROJECT_DIR$/K2/cutoff.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K2/highpass.png" beforeDir="false" afterPath="$PROJECT_DIR$/K2/highpass.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K2/lowpass.png" beforeDir="false" afterPath="$PROJECT_DIR$/K2/lowpass.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K2/minimoog.png" beforeDir="false" afterPath="$PROJECT_DIR$/K2/minimoog.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K2/mods.png" beforeDir="false" afterPath="$PROJECT_DIR$/K2/mods.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K2/modsystem.png" beforeDir="false" afterPath="$PROJECT_DIR$/K2/modsystem.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K2/osc.png" beforeDir="false" afterPath="$PROJECT_DIR$/K2/osc.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K2/resonance.png" beforeDir="false" afterPath="$PROJECT_DIR$/K2/resonance.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K2/selector.png" beforeDir="false" afterPath="$PROJECT_DIR$/K2/selector.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K2/vcf_panel.png" beforeDir="false" afterPath="$PROJECT_DIR$/K2/vcf_panel.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K2/vco.png" beforeDir="false" afterPath="$PROJECT_DIR$/K2/vco.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K2/waveform.png" beforeDir="false" afterPath="$PROJECT_DIR$/K2/waveform.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K1.md" beforeDir="false" afterPath="$PROJECT_DIR$/K1.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +56,7 @@
       <workItem from="1615112131509" duration="145000" />
       <workItem from="1615112279540" duration="95000" />
       <workItem from="1615112376164" duration="59000" />
-      <workItem from="1615112437944" duration="99000" />
+      <workItem from="1615112437944" duration="1378000" />
     </task>
     <task id="LOCAL-00001" summary="add K1 K2">
       <created>1615111691706</created>
