@@ -1,25 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0404cf5e-3012-4b7c-be2f-1479ef685eb5" name="Default Changelist" comment="add empty files">
+    <list default="true" id="0404cf5e-3012-4b7c-be2f-1479ef685eb5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K1/amp.png" beforeDir="false" afterPath="$PROJECT_DIR$/K1/amp.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K1/cl.png" beforeDir="false" afterPath="$PROJECT_DIR$/K1/cl.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K1/fourier.png" beforeDir="false" afterPath="$PROJECT_DIR$/K1/fourier.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K1/freq.png" beforeDir="false" afterPath="$PROJECT_DIR$/K1/freq.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K1/freq_vs_amp.png" beforeDir="false" afterPath="$PROJECT_DIR$/K1/freq_vs_amp.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K1/ft.png" beforeDir="false" afterPath="$PROJECT_DIR$/K1/ft.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K1/guitar.png" beforeDir="false" afterPath="$PROJECT_DIR$/K1/guitar.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K1/logfreq.png" beforeDir="false" afterPath="$PROJECT_DIR$/K1/logfreq.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K1/pitch.png" beforeDir="false" afterPath="$PROJECT_DIR$/K1/pitch.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K1/pitched.png" beforeDir="false" afterPath="$PROJECT_DIR$/K1/pitched.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K1/sine.png" beforeDir="false" afterPath="$PROJECT_DIR$/K1/sine.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K1/spectrum.png" beforeDir="false" afterPath="$PROJECT_DIR$/K1/spectrum.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K1/unpitch.png" beforeDir="false" afterPath="$PROJECT_DIR$/K1/unpitch.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K1/vl.png" beforeDir="false" afterPath="$PROJECT_DIR$/K1/vl.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K1/waveform.png" beforeDir="false" afterPath="$PROJECT_DIR$/K1/waveform.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K1/waveform_dif.png" beforeDir="false" afterPath="$PROJECT_DIR$/K1/waveform_dif.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K1/wn.png" beforeDir="false" afterPath="$PROJECT_DIR$/K1/wn.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K2.md" beforeDir="false" afterPath="$PROJECT_DIR$/K2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K2/adsr.png" beforeDir="false" afterPath="$PROJECT_DIR$/K2/adsr.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K2/adsr_panel.png" beforeDir="false" afterPath="$PROJECT_DIR$/K2/adsr_panel.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K2/cutoff.png" beforeDir="false" afterPath="$PROJECT_DIR$/K2/cutoff.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K2/highpass.png" beforeDir="false" afterPath="$PROJECT_DIR$/K2/highpass.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K2/lowpass.png" beforeDir="false" afterPath="$PROJECT_DIR$/K2/lowpass.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K2/minimoog.png" beforeDir="false" afterPath="$PROJECT_DIR$/K2/minimoog.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K2/mods.png" beforeDir="false" afterPath="$PROJECT_DIR$/K2/mods.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K2/modsystem.png" beforeDir="false" afterPath="$PROJECT_DIR$/K2/modsystem.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K2/osc.png" beforeDir="false" afterPath="$PROJECT_DIR$/K2/osc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K2/resonance.png" beforeDir="false" afterPath="$PROJECT_DIR$/K2/resonance.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K2/selector.png" beforeDir="false" afterPath="$PROJECT_DIR$/K2/selector.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K2/vcf_panel.png" beforeDir="false" afterPath="$PROJECT_DIR$/K2/vcf_panel.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K2/vco.png" beforeDir="false" afterPath="$PROJECT_DIR$/K2/vco.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K2/waveform.png" beforeDir="false" afterPath="$PROJECT_DIR$/K2/waveform.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +68,9 @@
       <updated>1615108061584</updated>
       <workItem from="1615108063072" duration="3927000" />
       <workItem from="1615112131509" duration="145000" />
+      <workItem from="1615112279540" duration="95000" />
+      <workItem from="1615112376164" duration="59000" />
+      <workItem from="1615112437944" duration="99000" />
     </task>
     <task id="LOCAL-00001" summary="add K1 K2">
       <created>1615111691706</created>
@@ -78,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615111691706</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="scaled">
+      <created>1615112308788</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615112308788</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,7 +95,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add empty files" />
     <MESSAGE value="add K1 K2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add K1 K2" />
+    <MESSAGE value="scaled" />
+    <option name="LAST_COMMIT_MESSAGE" value="scaled" />
   </component>
   <component name="WindowStateProjectService">
     <state x="457" y="68" key="CommitChangelistDialog2" timestamp="1615112308508">
