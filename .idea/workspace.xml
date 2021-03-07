@@ -1,12 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0404cf5e-3012-4b7c-be2f-1479ef685eb5" name="Default Changelist" comment="add empty files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K1/amp.png" beforeDir="false" afterPath="$PROJECT_DIR$/K1/amp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K1/cl.png" beforeDir="false" afterPath="$PROJECT_DIR$/K1/cl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K1/fourier.png" beforeDir="false" afterPath="$PROJECT_DIR$/K1/fourier.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K1/freq.png" beforeDir="false" afterPath="$PROJECT_DIR$/K1/freq.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K1/freq_vs_amp.png" beforeDir="false" afterPath="$PROJECT_DIR$/K1/freq_vs_amp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K1/ft.png" beforeDir="false" afterPath="$PROJECT_DIR$/K1/ft.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K1/guitar.png" beforeDir="false" afterPath="$PROJECT_DIR$/K1/guitar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K1/logfreq.png" beforeDir="false" afterPath="$PROJECT_DIR$/K1/logfreq.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K1/pitch.png" beforeDir="false" afterPath="$PROJECT_DIR$/K1/pitch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K1/pitched.png" beforeDir="false" afterPath="$PROJECT_DIR$/K1/pitched.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K1/sine.png" beforeDir="false" afterPath="$PROJECT_DIR$/K1/sine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K1/spectrum.png" beforeDir="false" afterPath="$PROJECT_DIR$/K1/spectrum.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K1/unpitch.png" beforeDir="false" afterPath="$PROJECT_DIR$/K1/unpitch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K1/vl.png" beforeDir="false" afterPath="$PROJECT_DIR$/K1/vl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K1/waveform.png" beforeDir="false" afterPath="$PROJECT_DIR$/K1/waveform.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K1/waveform_dif.png" beforeDir="false" afterPath="$PROJECT_DIR$/K1/waveform_dif.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K1/wn.png" beforeDir="false" afterPath="$PROJECT_DIR$/K1/wn.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1pQGmjMe8brvrUJEMonulhjzNZS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/K1" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0404cf5e-3012-4b7c-be2f-1479ef685eb5" name="Default Changelist" comment="" />
+      <created>1615108061584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615108061584</updated>
+      <workItem from="1615108063072" duration="3927000" />
+      <workItem from="1615112131509" duration="145000" />
+    </task>
+    <task id="LOCAL-00001" summary="add K1 K2">
+      <created>1615111691706</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615111691706</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add empty files" />
+    <MESSAGE value="add K1 K2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add K1 K2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="457" y="68" key="CommitChangelistDialog2" timestamp="1615111691475">
+      <screen x="37" y="23" width="1755" height="1097" />
+    </state>
+    <state x="457" y="68" key="CommitChangelistDialog2/37.23.1755.1097@37.23.1755.1097" timestamp="1615111691475" />
+    <state x="782" y="533" key="Vcs.Push.Dialog.v2" timestamp="1615111698464">
+      <screen x="37" y="23" width="1755" height="1097" />
+    </state>
+    <state x="782" y="533" key="Vcs.Push.Dialog.v2/37.23.1755.1097@37.23.1755.1097" timestamp="1615111698464" />
   </component>
 </project>
