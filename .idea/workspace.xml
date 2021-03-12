@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="0404cf5e-3012-4b7c-be2f-1479ef685eb5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K1.md" beforeDir="false" afterPath="$PROJECT_DIR$/K1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K2.md" beforeDir="false" afterPath="$PROJECT_DIR$/K2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K2/patches/1.oscillator.maxpat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/K2/patches/osc.maxpat" beforeDir="false" afterPath="$PROJECT_DIR$/K2/patches/osc.maxpat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +58,9 @@
       <workItem from="1615112131509" duration="145000" />
       <workItem from="1615112279540" duration="95000" />
       <workItem from="1615112376164" duration="59000" />
-      <workItem from="1615112437944" duration="1378000" />
+      <workItem from="1615112437944" duration="2196000" />
+      <workItem from="1615473442400" duration="6766000" />
+      <workItem from="1615533293829" duration="3815000" />
     </task>
     <task id="LOCAL-00001" summary="add K1 K2">
       <created>1615111691706</created>
@@ -72,7 +76,21 @@
       <option name="project" value="LOCAL" />
       <updated>1615112308788</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="class 5">
+      <created>1615480411355</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615480411355</updated>
+    </task>
+    <task id="LOCAL-00004" summary="class 5">
+      <created>1615481630928</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1615481630928</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,16 +100,19 @@
     <MESSAGE value="add empty files" />
     <MESSAGE value="add K1 K2" />
     <MESSAGE value="scaled" />
-    <option name="LAST_COMMIT_MESSAGE" value="scaled" />
+    <MESSAGE value="class 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="class 5" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="457" y="68" key="CommitChangelistDialog2" timestamp="1615112308508">
-      <screen x="37" y="23" width="1755" height="1097" />
+    <state x="2558" y="77" key="CommitChangelistDialog2" timestamp="1615481630803">
+      <screen x="1792" y="23" width="3200" height="1310" />
     </state>
+    <state x="2558" y="77" key="CommitChangelistDialog2/1792.23.3200.1310/37.23.1755.1097@1792.23.3200.1310" timestamp="1615481630803" />
     <state x="457" y="68" key="CommitChangelistDialog2/37.23.1755.1097@37.23.1755.1097" timestamp="1615112308508" />
-    <state x="782" y="533" key="Vcs.Push.Dialog.v2" timestamp="1615112310395">
-      <screen x="37" y="23" width="1755" height="1097" />
+    <state x="3150" y="632" key="Vcs.Push.Dialog.v2" timestamp="1615481632409">
+      <screen x="1792" y="23" width="3200" height="1310" />
     </state>
+    <state x="3150" y="632" key="Vcs.Push.Dialog.v2/1792.23.3200.1310/37.23.1755.1097@1792.23.3200.1310" timestamp="1615481632409" />
     <state x="782" y="533" key="Vcs.Push.Dialog.v2/37.23.1755.1097@37.23.1755.1097" timestamp="1615112310395" />
   </component>
 </project>
