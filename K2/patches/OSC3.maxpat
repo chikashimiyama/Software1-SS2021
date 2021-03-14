@@ -40,13 +40,62 @@
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
+					"bubble" : 1,
+					"id" : "obj-10",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 570.0, 96.5, 150.0, 24.0 ],
+					"text" : "click mode = draw"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-5",
+					"maxclass" : "message",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 231.0, 15.0, 186.0, 22.0 ],
+					"text" : "set mywave"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"buffername" : "mywave",
+					"id" : "obj-3",
+					"maxclass" : "waveform~",
+					"numinlets" : 5,
+					"numoutlets" : 6,
+					"outlettype" : [ "float", "float", "float", "float", "list", "" ],
+					"patching_rect" : [ 231.0, 62.0, 332.0, 93.0 ],
+					"setmode" : 4
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-1",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 2,
+					"outlettype" : [ "float", "bang" ],
+					"patching_rect" : [ 378.0, 190.0, 185.0, 22.0 ],
+					"text" : "buffer~ mywave @samps 512"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"id" : "obj-2",
 					"maxclass" : "newobj",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 125.5, 190.0, 100.0, 22.0 ],
-					"text" : "cycle~ 440"
+					"patching_rect" : [ 125.5, 190.0, 131.0, 22.0 ],
+					"text" : "cycle~ 100 mywave"
 				}
 
 			}
@@ -59,7 +108,7 @@
 					"numoutlets" : 1,
 					"numpoints" : 441,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 222.0, 282.0, 483.0, 205.0 ],
+					"patching_rect" : [ 231.0, 231.0, 332.0, 106.0 ],
 					"subplots" : [ 						{
 							"color" : [ 0.4, 0.4, 0.75, 1.0 ],
 							"thickness" : 1.2,
@@ -90,7 +139,7 @@
 					"maxclass" : "ezdac~",
 					"numinlets" : 2,
 					"numoutlets" : 0,
-					"patching_rect" : [ 125.5, 415.0, 45.0, 45.0 ]
+					"patching_rect" : [ 125.5, 298.0, 45.0, 45.0 ]
 				}
 
 			}
@@ -108,6 +157,13 @@
 					"destination" : [ "obj-15", 0 ],
 					"order" : 0,
 					"source" : [ "obj-2", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-3", 0 ],
+					"source" : [ "obj-5", 0 ]
 				}
 
 			}
