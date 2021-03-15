@@ -4,7 +4,6 @@
     <list default="true" id="0404cf5e-3012-4b7c-be2f-1479ef685eb5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/K2.md" beforeDir="false" afterPath="$PROJECT_DIR$/K2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K2/patches/OSC2.maxpat" beforeDir="false" afterPath="$PROJECT_DIR$/K2/patches/OSC2.maxpat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +59,8 @@
       <workItem from="1615112437944" duration="2196000" />
       <workItem from="1615473442400" duration="6766000" />
       <workItem from="1615533293829" duration="3907000" />
-      <workItem from="1615752868731" duration="4077000" />
+      <workItem from="1615752868731" duration="4107000" />
+      <workItem from="1615835673779" duration="216000" />
     </task>
     <task id="LOCAL-00001" summary="add K1 K2">
       <created>1615111691706</created>
