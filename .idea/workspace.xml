@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0404cf5e-3012-4b7c-be2f-1479ef685eb5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/K11.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K10.md" beforeDir="false" afterPath="$PROJECT_DIR$/K10.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K8.md" beforeDir="false" afterPath="$PROJECT_DIR$/K8.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K9.md" beforeDir="false" afterPath="$PROJECT_DIR$/K9.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K6.md" beforeDir="false" afterPath="$PROJECT_DIR$/K6.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +61,8 @@
       <workItem from="1615533293829" duration="3907000" />
       <workItem from="1615752868731" duration="4107000" />
       <workItem from="1615835673779" duration="3388000" />
-      <workItem from="1615926332017" duration="1010000" />
+      <workItem from="1615926332017" duration="1557000" />
+      <workItem from="1616015075026" duration="1593000" />
     </task>
     <task id="LOCAL-00001" summary="add K1 K2">
       <created>1615111691706</created>
@@ -108,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615755561085</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add K8">
+      <created>1615927366191</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1615927366191</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,18 +126,19 @@
     <MESSAGE value="class 5" />
     <MESSAGE value="K2" />
     <MESSAGE value="add K1" />
-    <option name="LAST_COMMIT_MESSAGE" value="add K1" />
+    <MESSAGE value="add K8" />
+    <option name="LAST_COMMIT_MESSAGE" value="add K8" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2558" y="77" key="CommitChangelistDialog2" timestamp="1615755560901">
+    <state x="2558" y="77" key="CommitChangelistDialog2" timestamp="1615927366006">
       <screen x="1792" y="23" width="3200" height="1310" />
     </state>
-    <state x="2558" y="77" key="CommitChangelistDialog2/1792.23.3200.1310/37.23.1755.1097@1792.23.3200.1310" timestamp="1615755560901" />
+    <state x="2558" y="77" key="CommitChangelistDialog2/1792.23.3200.1310/37.23.1755.1097@1792.23.3200.1310" timestamp="1615927366006" />
     <state x="457" y="68" key="CommitChangelistDialog2/37.23.1755.1097@37.23.1755.1097" timestamp="1615112308508" />
-    <state x="3150" y="632" key="Vcs.Push.Dialog.v2" timestamp="1615755562569">
+    <state x="3150" y="632" key="Vcs.Push.Dialog.v2" timestamp="1615927369078">
       <screen x="1792" y="23" width="3200" height="1310" />
     </state>
-    <state x="3150" y="632" key="Vcs.Push.Dialog.v2/1792.23.3200.1310/37.23.1755.1097@1792.23.3200.1310" timestamp="1615755562569" />
+    <state x="3150" y="632" key="Vcs.Push.Dialog.v2/1792.23.3200.1310/37.23.1755.1097@1792.23.3200.1310" timestamp="1615927369078" />
     <state x="782" y="533" key="Vcs.Push.Dialog.v2/37.23.1755.1097@37.23.1755.1097" timestamp="1615112310395" />
     <state x="2335" y="359" width="670" height="676" key="search.everywhere.popup" timestamp="1615755730519">
       <screen x="1792" y="23" width="3200" height="1310" />
