@@ -4,6 +4,11 @@
     <list default="true" id="0404cf5e-3012-4b7c-be2f-1479ef685eb5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/K6.md" beforeDir="false" afterPath="$PROJECT_DIR$/K6.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K6/patches/Glisson.maxpat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/K6/patches/ImpulseSpectrum.maxpat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/K7.md" beforeDir="false" afterPath="$PROJECT_DIR$/K7.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K8.md" beforeDir="false" afterPath="$PROJECT_DIR$/K8.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K9.md" beforeDir="false" afterPath="$PROJECT_DIR$/K9.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +67,8 @@
       <workItem from="1615752868731" duration="4107000" />
       <workItem from="1615835673779" duration="3388000" />
       <workItem from="1615926332017" duration="1557000" />
-      <workItem from="1616015075026" duration="1593000" />
+      <workItem from="1616015075026" duration="2100000" />
+      <workItem from="1616251770095" duration="4211000" />
     </task>
     <task id="LOCAL-00001" summary="add K1 K2">
       <created>1615111691706</created>
