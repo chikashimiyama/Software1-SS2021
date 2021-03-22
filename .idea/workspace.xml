@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0404cf5e-3012-4b7c-be2f-1479ef685eb5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K10.md" beforeDir="false" afterPath="$PROJECT_DIR$/K10.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K6/patches/Window.maxpat" beforeDir="false" afterPath="$PROJECT_DIR$/K6/patches/Window.maxpat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K7.md" beforeDir="false" afterPath="$PROJECT_DIR$/K7.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K11.md" beforeDir="false" afterPath="$PROJECT_DIR$/MaxPatching.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +66,7 @@
       <workItem from="1616251770095" duration="4267000" />
       <workItem from="1616314843580" duration="5853000" />
       <workItem from="1616398085875" duration="1015000" />
-      <workItem from="1616399251181" duration="4555000" />
+      <workItem from="1616399251181" duration="6329000" />
     </task>
     <task id="LOCAL-00001" summary="add K1 K2">
       <created>1615111691706</created>
