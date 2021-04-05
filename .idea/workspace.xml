@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="0404cf5e-3012-4b7c-be2f-1479ef685eb5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K4.md" beforeDir="false" afterPath="$PROJECT_DIR$/K4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K6.md" beforeDir="false" afterPath="$PROJECT_DIR$/K6.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K6/patches/PMW.maxpat" beforeDir="false" afterPath="$PROJECT_DIR$/K6/patches/PMW.maxpat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K6/patches/Pulsersynthese.maxpat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/K10.md" beforeDir="false" afterPath="$PROJECT_DIR$/K10.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K2.md" beforeDir="false" afterPath="$PROJECT_DIR$/K2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MaxPatching.md" beforeDir="false" afterPath="$PROJECT_DIR$/MaxPatching.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +68,11 @@
       <workItem from="1616251770095" duration="4267000" />
       <workItem from="1616314843580" duration="5853000" />
       <workItem from="1616398085875" duration="1015000" />
-      <workItem from="1616399251181" duration="8782000" />
+      <workItem from="1616399251181" duration="8855000" />
+      <workItem from="1616861449637" duration="2343000" />
+      <workItem from="1617005775444" duration="3440000" />
+      <workItem from="1617601781080" duration="16000" />
+      <workItem from="1617601798507" duration="23000" />
     </task>
     <task id="LOCAL-00001" summary="add K1 K2">
       <created>1615111691706</created>
